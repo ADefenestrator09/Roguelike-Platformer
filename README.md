@@ -15,3 +15,22 @@ H: Take Damage
 
 J: Heal
 
+B: Toggle Build Mode
+
+C: Export Platform Positions
+
+P: Move Platform Up When In Build Mode
+
+;: Move Platform Down
+
+L: Move Platform Left
+
+": Move Platform Right
+
+O: Increase Height
+
+{: Decrease Height
+
+,: Increase Width
+
+?: Decrease Width
