@@ -11,26 +11,20 @@ D/Right Arrow: Move Right
 
 Q: Dash
 
-H: Take Damage
-
-J: Heal
-
 B: Toggle Build Mode
 
-C: Export Platform Positions
+I: Move Platform Up When In Build Mode
 
-P: Move Platform Up When In Build Mode
+K: Move Platform Down
 
-;: Move Platform Down
+J: Move Platform Left
 
-L: Move Platform Left
-
-": Move Platform Right
+L: Move Platform Right
 
 O: Increase Height
 
-{: Decrease Height
+U: Decrease Height
 
-,: Increase Width
+Comma: Increase Width
 
-?: Decrease Width
+Period: Decrease Width
