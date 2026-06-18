@@ -14,6 +14,6 @@ J: Move Platform Left
 L: Move Platform Right  
 O: Increase Height  
 U: Decrease Height  
-Comma: Increase Width  
-Period: Decrease Width  
+Comma: Decrease Width  
+Period: Increase Width  
 P: Change Platform Type  
